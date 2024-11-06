@@ -1,0 +1,22 @@
+body {
+    background-color: darkcyan;
+}
+.video1 {
+    background-color: cadetblue;
+    text-align: center;
+    margin-left: 2cm;
+    margin-right: 2cm;
+    border-radius: 15px;
+}
+.titulo {
+    text-align: center;
+    color: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.musica1 {
+    text-align: center;
+    background-color: cadetblue;
+    margin-left: 6cm;
+    margin-right: 6cm;
+    border-radius: 15px;
+}
